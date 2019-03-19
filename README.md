@@ -1,15 +1,15 @@
 # BestHack2019
-  -Solutions of BestHack hackathon
-  -Команда: satana
-  -Капитан: Ларичев Дмитрий Юрьевич
-  -Email: dexforint@mail.ru
+    -Solutions of BestHack hackathon
+    -Команда: satana
+    -Капитан: Ларичев Дмитрий Юрьевич
+    -Email: dexforint@mail.ru
 
 # Требования:
-  -Python 3
-  -numpy
-  -pandas
-  -scipy
-  -argparse (стандартная библиотека python 3)
+    -Python 3
+    -numpy
+    -pandas
+    -scipy
+    -argparse (стандартная библиотека python 3)
 
 # Алгоритм проверки решения:
 1) Поместите в папку с solution.py файлы F.csv и Wind.csv
