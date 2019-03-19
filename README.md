@@ -1,5 +1,8 @@
 # BestHack2019
 Solutions of BestHack hackathon
+Команда: satana
+Капитан: Ларичев Дмитрий Юрьевич
+Email: dexforint@mail.ru
 
 # Требования:
 Python 3
